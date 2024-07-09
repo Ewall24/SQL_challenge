@@ -1,7 +1,10 @@
 # SQL_challenge 
 
 # Data Modeling 
-Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like QuickDBD Links to an external site.. 
+Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables. To create the sketch, feel free to use a tool like QuickDBD Links to an external site..  
+
+![QuickDBD-export](https://github.com/Ewall24/SQL_challenge/assets/169427207/0dc452e0-7eb3-4a2d-87ae-e05dc8192f3f)
+
 
 # Data Engineering 
 Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:
