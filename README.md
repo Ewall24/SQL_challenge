@@ -38,3 +38,8 @@ Import each CSV file into its corresponding SQL table.
 
     List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 
+acknowledgments  
+# collab 
+
+Gursimran Kaur - kaursimran081999@gmail.com - SimranBoparai\ 
+Omid   K        - omidk414@gmail.com         - omidk414\
